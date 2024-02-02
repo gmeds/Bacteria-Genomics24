@@ -34,3 +34,21 @@ conda config --add channels defaults
 conda config --add channels biocondac
 conda config --add channels conda-forge
 ```
+**Flye**
+
+You can install flye in two ways;
+
+**Using conda**
+
+`conda install flye`
+
+The conda installation will, however, take time to install. 
+
+**Git clone**
+
+Cloning the repo then running make also works pretty fine:
+```
+git clone https://github.com/fenderglass/Flye
+cd Flye
+make
+```
