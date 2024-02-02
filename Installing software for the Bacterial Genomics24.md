@@ -44,6 +44,8 @@ You can install flye in two ways;
 
 The conda installation will, however, take time to install. 
 
+Check that flye has been installed by running `flye --version`
+
 **Git clone**
 
 Cloning the repo then running make also works pretty fine:
@@ -52,3 +54,19 @@ git clone https://github.com/fenderglass/Flye
 cd Flye
 make
 ```
+To confirm that flye has been installed, type in this script:
+
+`python bin/flye --version`
+
+**Installing from source**
+
+An even better way is to install from source:
+
+Just run:
+
+```
+git clone https://github.com/fenderglass/Flye
+cd Flye
+python setup.py install
+```
+Confirm that flye has been installed by running `flye --version``
