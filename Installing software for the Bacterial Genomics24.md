@@ -69,4 +69,4 @@ git clone https://github.com/fenderglass/Flye
 cd Flye
 python setup.py install
 ```
-Confirm that flye has been installed by running `flye --version``
+Confirm that flye has been installed by running `flye --version`
