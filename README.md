@@ -40,3 +40,6 @@ The course contains 15 modules:
 - An AWS account
 - Basic understanding of Linux command line
 - Basic understanding of genomics and bioinformatics. However, the material is also built for those with zero knowledge of bioinformatics and genomics.
+
+<h1 align="center">NICE LEARNING<h1/>
+<h4 align="center">If the course materials interested you, feel free to <a href="https://www.buymeacoffee.com/georgeodette">buy us coffee<a/><h4/>
