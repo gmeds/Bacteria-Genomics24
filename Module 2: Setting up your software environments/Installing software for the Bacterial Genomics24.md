@@ -70,3 +70,5 @@ cd Flye
 python setup.py install
 ```
 Confirm that flye has been installed by running `flye --version`
+<h1 align="center">WE HOPE YOU ENJOYED THE MODULE<h1>
+<h4 align="center">If the course module interested you, feel free to <a href="https://www.buymeacoffee.com/georgeodette">buy us coffee<a/><h4/>
