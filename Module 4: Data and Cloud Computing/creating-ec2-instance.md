@@ -169,6 +169,5 @@ Without stopping an ec2 instance, Amazon will charge you for it. Ensure you stop
    Let us address the issue of EBS volume, once an EBS is stopped. The best route is to detach this volume. Head over to volumes, in the Actions drop-down button, click on detach volume. You can
    then delete this volume in the same panel.
 
-<h1 align="center">THANKS FOR READING.</h1>
-
-   <h3 align="center"> If you enjoyed the lecture, you can buy me coffee to support me in creating more lectures.</h3>
+<h1 align="center">WE HOPE YOU ENJOYED THE MODULE<h1>
+<h4 align="center">If the course module interested you, feel free to <a href="https://www.buymeacoffee.com/georgeodette">buy us coffee<a/><h4/>
