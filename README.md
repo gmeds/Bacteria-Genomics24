@@ -15,7 +15,7 @@ This course provides a comprehensive introduction to bacterial genomics analysis
 - Taxonomic analysis
 - Gene set completeness analysis
 
-**Note: This course is continuously being updated. By the time you are here, some or most of the modules will not be complete. Or when complete, the material will be constantly adjusted at no inconvenience.**
+**Note: This course is continuously being updated. By the time you are here, some or most of the modules will not have beeen complete. However, the available material is just sufficient to get you started. Or when complete, the material will be constantly adjusted at no inconvenience.**
 
 By the end of the course, students will have experience performing common genomic analyses on bacterial sequence data using cloud resources. Course Modules
 The course contains 15 modules:
