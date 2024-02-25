@@ -80,7 +80,7 @@ Click on the **create budget** at the bottom of the page.
 
 **Identity and Access Management (IAM)**
 
-In most cases, you will not want to log in to amazon using your root account. Or, you might be having a single account but accessible to multiple users. Assume you were working as a team.
+In most cases, you will not want to log in to Amazon using your root account. Or, you might have a single account but accessible to multiple users. Assume you were working as a team.
 IAM allows:
 
 - **Who:** Who can access your resources (users, groups, applications)
@@ -113,11 +113,11 @@ IAM allows:
 
 **Getting Started with IAM:**
 
-For this lecture, we will learn how to create a user group, then add users. This can be important if you want many users to have simialr access rights to the AWS account.
+For this lecture, we will learn how to create a user group, and then add users. This can be important if you want many users to have similar access rights to the AWS account.
 
 From the AWS dashboard, go into the search bar and search **IAM**:
 
-You will get an interface like this, the just pick IAM:
+You will get an interface like this, then just pick IAM:
 
 ![ENV SETUP(7)](https://github.com/gmeds/Bacterial-Genomics24/assets/157685223/93431fe8-5620-45a3-a51c-902a4ddc516b)
 
@@ -143,13 +143,13 @@ For groups, access the dashboard once again:
 ![ENV SETUP(8)](https://github.com/gmeds/Bacterial-Genomics24/assets/157685223/dd4c3cc6-08eb-4d05-ae25-db837cd24bd0)
 
 - Click on user groups
-- Click on create group
+- Click on Create group
 
 ![ENV SETUP(9)](https://github.com/gmeds/Bacterial-Genomics24/assets/157685223/a3a92667-baf5-4155-90a0-b61e06eace73)
 
-- Enter group name
+- Enter the group name
 - Add users if available.
-- Finally, add policies that the group will have authority/permisions over.
+- Finally, add policies that the group will have authority/permissions over.
 
 **Some of the policies to consider:**
 - AmazonEC2FullAccess
@@ -164,7 +164,9 @@ For groups, access the dashboard once again:
 - IAMUserChangePassword
 
 Additional Resources:
+- AWS IAM User Guide: https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html: https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html
+- AWS IAM Best Practices: https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html: https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
+- AWS IAM FAQs: https://aws.amazon.com/iam/faqs/: https://aws.amazon.com/iam/faqs/
 
-    AWS IAM User Guide: https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html: https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html
-    AWS IAM Best Practices: https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html: https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
-    AWS IAM FAQs: https://aws.amazon.com/iam/faqs/: https://aws.amazon.com/iam/faqs/
+<h1 align="center">WE HOPE YOU ENJOYED THE MODULE<h1>
+<h4 align="center">If the course module interested you, feel free to <a href="https://www.buymeacoffee.com/georgeodette">buy us coffee<a/><h4/>
