@@ -48,7 +48,7 @@ Check that flye has been installed by running `flye --version`
 
 **Git clone**
 
-Cloning the repo then running make also works pretty fine:
+Cloning the repo and then running make also works pretty fine:
 ```
 git clone https://github.com/fenderglass/Flye
 cd Flye
